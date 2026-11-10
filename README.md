@@ -204,4 +204,4 @@ This repository serves as the official landing page for Necropsy. The software i
 **Get the most recent version of Necropsy today!**
 
 ---
-**Last updated:** 2026-11-10 15:51:41 UTC
+**Last updated:** 2026-11-10 21:30:21 UTC
